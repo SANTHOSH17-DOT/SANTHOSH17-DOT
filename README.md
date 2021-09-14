@@ -5,3 +5,4 @@
 - 😄 Pronouns: He/His
 
 ![Santhosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SANTHOSH17-DOT)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SANTHOSH17-DOT)
