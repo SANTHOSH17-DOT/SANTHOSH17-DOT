@@ -9,5 +9,4 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANTHOSH17-DOT&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
-![Santhosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=SANTHOSH17-DOT)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SANTHOSH17-DOT)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SANTHOSH17-DOT&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
