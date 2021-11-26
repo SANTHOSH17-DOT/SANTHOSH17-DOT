@@ -6,8 +6,8 @@
 - 😉 Funfact: There's no secret ingredient
 
 #### Views count
-<p align="center"><img src="https://profile-counter.glitch.me/{SANTHOSH17-DOT}/count.svg" alt="SANTHOSH17-DOT :: Visitor's Count" /></p>
+<p align="left"><img src="https://profile-counter.glitch.me/{SANTHOSH17-DOT}/count.svg" alt="SANTHOSH17-DOT :: Visitor's Count" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANTHOSH17-DOT&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANTHOSH17-DOT&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=SANTHOSH17-DOT&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=SANTHOSH17-DOT&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
