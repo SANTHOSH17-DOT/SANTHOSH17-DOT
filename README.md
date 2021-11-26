@@ -5,6 +5,7 @@
 - 😄 Pronouns: He/His
 - 😉 Funfact: There's no secret ingredient
 
+#### Views count
 <p align="center"><img src="https://profile-counter.glitch.me/{SANTHOSH17-DOT}/count.svg" alt="SANTHOSH17-DOT :: Visitor's Count" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SANTHOSH17-DOT&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
