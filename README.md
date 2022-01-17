@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santhosh17-dot&label=Profile%20views&color=0e75b6&style=flat" alt="santhosh17-dot" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santhosh17-dot" alt="santhosh17-dot" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [http://my-portfolio-santhosh.herokuapp.com/](http://my-portfolio-santhosh.herokuapp.com/)
 
 - 📝 I regularly write articles on [https://medium.com/@santhosh_m](https://medium.com/@santhosh_m)
@@ -29,3 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SANTHOSH17-DOT&show_icons=true&locale=en&layout=compact" alt="SANTHOSH17-DOT" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SANTHOSH17-DOT&show_icons=true&locale=en" alt="SANTHOSH17-DOT" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SANTHOSH17-DOT&" alt="SANTHOSH17-DOT" /></p>
