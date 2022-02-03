@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santhosh</h1>
-<h3 align="center">A zealous learner from India</h3>
+<h3 align="center">A zealous learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santhosh17-dot&label=Profile%20views&color=0e75b6&style=flat" alt="santhosh17-dot" /> </p>
 
