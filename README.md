@@ -1,5 +1,5 @@
-# Hello World!!!
-<b>This is Santhosh</b>
+# Hello World, <h2>This is Santhosh</h2>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/santhosh_m_3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/santhosh-m-041689217) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@santhosh_m) 
