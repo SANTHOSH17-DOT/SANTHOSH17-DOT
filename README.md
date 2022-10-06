@@ -1,5 +1,4 @@
-# Hello World, I'm Santhosh
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&size=32&pause=500&vCenter=true&width=600&height=100&lines=Hello+World+!!!;I'm+Santhosh+Murugaiah)](https://git.io/typing-svg)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SANTHOSH17-DOT&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
