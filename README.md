@@ -7,4 +7,4 @@ Opensource | Blockchain | Cybersecurity
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/santhosh_m_3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/santhosh-m-041689217) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@santhosh_m) 
 
 ![](https://github-readme-stats.vercel.app/api?username=SANTHOSH17-DOT&theme=default&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SANTHOSH17-DOT&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SANTHOSH17-DOT&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
